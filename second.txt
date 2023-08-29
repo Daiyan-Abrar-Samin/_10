@@ -1,2 +1,3 @@
 this is my second document
+it is in the middle
 how is everything
